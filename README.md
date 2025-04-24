@@ -1,33 +1,64 @@
-# 📝 Tarefa-Diaria com animações
 
-Este é um aplicativo de lista de tarefas feito com **React + Tailwind CSS** com animações usando **Framer Motion**.
-O app permite adicionar, marcar como concluído e remover tarefas com confirmação e efeitos visuais suaves.
+# ✅ To-do App com Animações
 
-## 🚀 Tecnologias usadas
+Este é um aplicativo de lista de tarefas desenvolvido em **React Native com Expo**, com foco em **animações suaves e uma interface amigável**. 
+Ideal para quem quer organizar o dia a dia de forma prática e com estilo.
 
-- React.js
-- Tailwind CSS
-- Framer Motion
-- JavaScript
+---
 
-## 🎯 Funcionalidades
+## ✨ Funcionalidades
 
-- ✅ Adicionar novas tarefas
-- ✏️ Marcar tarefas como concluídas
-- ❌ Remover tarefas com confirmação
-- 💫 Animações ao adicionar/remover tarefas
-- 📱 Design responsivo
+- Adicionar tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas com confirmação
+- Filtros: todas, ativas e concluídas
+- Animações ao adicionar/remover tarefas
+- Arrastar tarefas para reordenar
+- Interface responsiva
 
-## 📦 Como executar localmente
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/)
+
+
+---
+
+## 🚀 Como rodar o projeto
 
 ```bash
-git clone https://github.com/SEU_USUARIO/todo-app.git
+# Clone o repositório
+git clone https://github.com/Tarefa-Diaria/todo-app.git
+
+# Acesse a pasta do projeto
 cd todo-app
+
+# Instale as dependências
 npm install
-npm run dev
 
-```markdown
-## 👨‍💻 Autor
+# Inicie o projeto
+npx expo start
+```
 
-Desenvolvido por **Marcelo** 🚀  
-[GitHub](https://github.com/todo-list-app)
+
+
+![Todo App Animado](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF1M2hjb2FnbTkwczZ4ZzNkcDFlMm8ybXRvM3d5ODZtaTJ6am0yNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hw2FfLFEJmUe6yR9HK/giphy.gif)
+
+---
+
+
+
+Feito com 💙 por Marcelo C-C MY NIGGA  
+- [GitHub](https://github.com/MarceloFisrt)  
+- [LinkedIn](https://www.linkedin.com/in/marcelo-brito-a9829127a/)
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.  
+Sinta-se à vontade para usar, contribuir e compartilhar!
